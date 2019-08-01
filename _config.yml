@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+#repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
@@ -24,7 +24,7 @@ linkedin_username: iftanoor
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ifta and I'm a software engineer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Ifta and I'm a software engineer. Working on android apps since last 2.5 years. Besides, I have also worked web projects.
 
   I am most skilled in: <mark>Android</mark> and <mark>Java</mark>
 
@@ -40,14 +40,12 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Cooking
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
