@@ -24,9 +24,11 @@ linkedin_username: iftanoor
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ifta and I'm a software engineer. Working on android apps since last 2.5 years. Besides, I have also worked web projects.
+  Hi, my name's Ifta and I'm a software engineer.
 
-  I am most skilled in: <mark>Android</mark> and <mark>Java</mark>
+  Need a mobile app from requirement analysis to shippable product? 
+
+  With fair knowledge in requirement analysis, experience in REST api with node js and professional experience of 2.5 years of android app development, You can rely on me.
 
 # Projects Section
 # projects_title: Projects
