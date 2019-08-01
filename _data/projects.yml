@@ -6,3 +6,23 @@
     Internal project
   description: | # this will include new lines to allow paragraphs
     Prepared a  feature and branding configurable android app and a python configuarator which cut down our demo app preparation time by 95%, bug fixing and feature shipping time by 80%, finally the production app delivery time by 75%.
+
+- layout: top-middle
+  name: VoIP OTT app generator with branding engine
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  quote: >
+    Internal project
+  description: | # this will include new lines to allow paragraphs
+    Prepared a  feature and branding configurable android app and a python configuarator which cut down our demo app preparation time by 95%, bug fixing and feature shipping time by 80%, finally the production app delivery time by 75%.
+
+
+- layout: top-middle
+  name: VoIP OTT app generator with branding engine
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  quote: >
+    Internal project
+  description: | # this will include new lines to allow paragraphs
+    Prepared a  feature and branding configurable android app and a python configuarator which cut down our demo app preparation time by 95%, bug fixing and feature shipping time by 80%, finally the production app delivery time by 75%.
+
