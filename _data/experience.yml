@@ -3,13 +3,11 @@
   link: revesoft.com
   job_title: Senior Software Engineer
   dates: July 2018 - Present
-  quote: >
-   IP telephony made simple. REVE Systems started in 2003 with a focused approach to serve the IP based communication industry now holds a leadership position in Mobile VoIP, SIP Softswitch, VoIP Billing, Bandwidth Optimization, WebRTC, Enterprise Communication, e-Governance and Mobile OTT.
+  #quote: >
+   #IP telephony made simple. REVE Systems started in 2003 with a focused approach to serve the IP based communication industry now holds a leadership position in Mobile VoIP, SIP Softswitch, VoIP Billing, Bandwidth Optimization, WebRTC, Enterprise Communication, e-Governance and Mobile OTT.
   description: | # this will include new lines to allow paragraphs
     Technical Requirement analysis and planning
-
     App architecture design, R&D and feature shipping
-
     Internal technical consultancy and UIX advisor
 
 - layout: left
@@ -17,7 +15,7 @@
   link: revesoft.com
   job_title: Junior Software Engineer
   dates: November 2016 - June 2018
-  quote: >
-   IP telephony made simple. REVE Systems started in 2003 with a focused approach to serve the IP based communication industry now holds a leadership position in Mobile VoIP, SIP Softswitch, VoIP Billing, Bandwidth Optimization, WebRTC, Enterprise Communication, e-Governance and Mobile OTT.
+  #quote: >
+   #IP telephony made simple. REVE Systems started in 2003 with a focused approach to serve the IP based communication industry now holds a leadership position in Mobile VoIP, SIP Softswitch, VoIP Billing, Bandwidth Optimization, WebRTC, Enterprise Communication, e-Governance and Mobile OTT.
   description: | # this will include new lines to allow paragraphs
     R&D and App architecture design
