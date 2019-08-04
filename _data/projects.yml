@@ -8,21 +8,39 @@
     Prepared a  feature and branding configurable android app and a python configuarator which cut down our demo app preparation time by 95%, bug fixing and feature shipping time by 80%, finally the production app delivery time by 75%.
 
 - layout: top-middle
-  name: VoIP OTT app generator with branding engine
+  name: REVE Android SDK
   #link: github.com/sproogen
   #github: sproogen/resume-theme
   quote: >
     Internal project
   description: | # this will include new lines to allow paragraphs
-    Prepared a  feature and branding configurable android app and a python configuarator which cut down our demo app preparation time by 95%, bug fixing and feature shipping time by 80%, finally the production app delivery time by 75%.
+    Prepared an android sdk by refactoring and reshaping existing code base which lessened our back-end modification and feature shipping involving back-end time by 70-80%
 
 
 - layout: top-middle
-  name: VoIP OTT app generator with branding engine
+  name: SmartTech Service App
   #link: github.com/sproogen
   #github: sproogen/resume-theme
-  quote: >
-    Internal project
+  #quote: >
+  #  Internal project
   description: | # this will include new lines to allow paragraphs
-    Prepared a  feature and branding configurable android app and a python configuarator which cut down our demo app preparation time by 95%, bug fixing and feature shipping time by 80%, finally the production app delivery time by 75%.
+     Build a service providing platform on android backed by REST API made with nodejs, mongodb, heroku and linux server for SmartTech Pvt. Ltd. which enabled them to manage after sales service with 100% transparency, removed communication overhead and saved reporting time by 95%. I have covered all from requirement analysis to deployment.
+
+- layout: top-middle
+  name: BubbleTone
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >
+  #  roject
+  description: | # this will include new lines to allow paragraphs
+    A VoIP android app for a virtual mobile operator aiming at eleminating roaming cost based on block chain. I have worked on phase 1(partially), phase 2 and 3 which earned REVE systems around 100k USD in revenue.
+
+- layout: top-middle
+  name: AirtelTalk
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >
+  #  roject
+  description: | # this will include new lines to allow paragraphs
+    Android VoIP app for Airtel India. The way I implemented the GUI, enabled REVE Systems to ship 12 clone projects to Airtel India at very low cost.
 
